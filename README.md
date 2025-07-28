@@ -49,19 +49,19 @@
 <!-- ANIMATED TECH STACK WITH GLOWING EFFECTS -->
 <img src="https://skillicons.dev/icons?i=python,cpp,c,js,java,dart&theme=dark&perline=6" />
 <br/>
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=16&duration=1500&pause=500&color=FF0080&center=true&vCenter=true&width=600&lines=CORE+NEURAL+LANGUAGES+%E2%9A%A1+PYTHON+%E2%80%A2+C%2B%2B+%E2%80%A2+JAVASCRIPT+%E2%80%A2+JAVA" alt="Languages"/>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=18&duration=1500&pause=500&color=FF1493&center=true&vCenter=true&width=700&lines=🔥+CORE+NEURAL+LANGUAGES+🔥+PYTHON+•+C%2B%2B+•+JAVASCRIPT+•+JAVA+🔥" alt="Languages"/>
 
 <img src="https://skillicons.dev/icons?i=react,nodejs,express,flask,tensorflow,pytorch&theme=dark&perline=6" />
 <br/>
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=16&duration=1500&pause=500&color=00FFFF&center=true&vCenter=true&width=700&lines=QUANTUM+FRAMEWORKS+%E2%9A%A1+REACT+%E2%80%A2+FLASK+%E2%80%A2+TENSORFLOW+%E2%80%A2+PYTORCH" alt="Frameworks"/>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=18&duration=1500&pause=500&color=00FF7F&center=true&vCenter=true&width=750&lines=⚡+QUANTUM+FRAMEWORKS+⚡+REACT+•+FLASK+•+TENSORFLOW+•+PYTORCH+⚡" alt="Frameworks"/>
 
 <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,firebase,aws,docker&theme=dark&perline=6" />
 <br/>
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=16&duration=1500&pause=500&color=FF4500&center=true&vCenter=true&width=650&lines=DATA+MATRIX+%E2%9A%A1+MYSQL+%E2%80%A2+MONGODB+%E2%80%A2+AWS+%E2%80%A2+DOCKER" alt="Database"/>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=18&duration=1500&pause=500&color=FFD700&center=true&vCenter=true&width=700&lines=💎+DATA+MATRIX+💎+MYSQL+•+MONGODB+•+AWS+•+DOCKER+💎" alt="Database"/>
 
 <img src="https://skillicons.dev/icons?i=vscode,git,figma,vercel,arduino,linux&theme=dark&perline=6" />
 <br/>
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=16&duration=1500&pause=500&color=9400D3&center=true&vCenter=true&width=650&lines=CYBER+TOOLS+%E2%9A%A1+VSCODE+%E2%80%A2+GIT+%E2%80%A2+ARDUINO+%E2%80%A2+LINUX" alt="Tools"/>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=18&duration=1500&pause=500&color=FF69B4&center=true&vCenter=true&width=700&lines=🚀+CYBER+TOOLS+🚀+VSCODE+•+GIT+•+ARDUINO+•+LINUX+🚀" alt="Tools"/>
 
 </div>
 
@@ -76,9 +76,9 @@
 <img src="https://leetcard.jacoblin.cool/Agash_dev7?theme=unicorn&font=Orbitron&ext=contest&width=600" alt="LeetCode Stats"/>
 
 <!-- CUSTOM LEETCODE ACHIEVEMENTS -->
-<img src="https://img.shields.io/badge/LEETCODE-WARRIOR-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=000000" />
-<img src="https://img.shields.io/badge/PROBLEMS-DESTROYER-00FFFF?style=for-the-badge&logo=code&logoColor=white&labelColor=000000" />
-<img src="https://img.shields.io/badge/ALGORITHMS-MASTER-FF0080?style=for-the-badge&logo=algorithm&logoColor=white&labelColor=000000" />
+<img src="https://img.shields.io/badge/⚔️_LEETCODE-WARRIOR-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=FF1493" />
+<img src="https://img.shields.io/badge/🔥_PROBLEMS-DESTROYER-00FFFF?style=for-the-badge&logo=code&logoColor=white&labelColor=FF4500" />
+<img src="https://img.shields.io/badge/🧠_ALGORITHMS-MASTER-FF0080?style=for-the-badge&logo=algorithm&logoColor=white&labelColor=9400D3" />
 
 <!-- GITHUB STREAK WITH FIRE THEME -->
 <img src="https://streak-stats.demolab.com/?user=JusCookin&theme=neon-dark&background=0d1117&border=00ffff&stroke=ff0080&ring=00ffff&fire=ff4500&currStreakLabel=00ffff&sideLabels=ffffff&currStreakNum=ff0080&sideNums=00ffff&dates=ffffff" alt="GitHub Streak"/>
@@ -109,8 +109,8 @@
 <td width="50%">
 <h3 align="center">🏋️ Smart Dumbbell IoT System</h3>
 <div align="center">
-<a href="https://github.com/JusCookin/Smart-Dumbbell">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=JusCookin&repo=Smart-Dumbbell&theme=synthwave&hide_border=true&bg_color=0d1117&title_color=00FFFF&text_color=FF0080&icon_color=FF4500&border_radius=15" />
+<a href="https://github.com/JusCookin/IoT-Based-Smart-Dumbell">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=JusCookin&repo=IoT-Based-Smart-Dumbell&theme=synthwave&hide_border=true&bg_color=0d1117&title_color=00FFFF&text_color=FF0080&icon_color=FF4500&border_radius=15" />
 </a>
 <br/><br/>
 <img src="https://img.shields.io/badge/IoT-REAL_TIME-00FFFF?style=for-the-badge&logo=iot&logoColor=white&labelColor=000000" />
@@ -122,8 +122,8 @@
 <td width="50%">
 <h3 align="center">🌧️ Rain-Responsive Clothesline</h3>
 <div align="center">
-<a href="https://github.com/JusCookin/Rain-Responsive-Clothesline">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=JusCookin&repo=Rain-Responsive-Clothesline&theme=synthwave&hide_border=true&bg_color=0d1117&title_color=FF4500&text_color=00FFFF&icon_color=FF0080&border_radius=15" />
+<a href="https://github.com/JusCookin/IoT-Based-Automated-Rain-Responsive-Clothesline">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=JusCookin&repo=IoT-Based-Automated-Rain-Responsive-Clothesline&theme=synthwave&hide_border=true&bg_color=0d1117&title_color=FF4500&text_color=00FFFF&icon_color=FF0080&border_radius=15" />
 </a>
 <br/><br/>
 <img src="https://img.shields.io/badge/AUTOMATION-SMART-FF4500?style=for-the-badge&logo=home&logoColor=white&labelColor=000000" />
@@ -133,8 +133,8 @@
 <td width="50%">
 <h3 align="center">🧠 Brain Tumor AI Detector</h3>
 <div align="center">
-<a href="https://github.com/JusCookin/Brain-Tumor-Detection">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=JusCookin&repo=Brain-Tumor-Detection&theme=synthwave&hide_border=true&bg_color=0d1117&title_color=9400D3&text_color=00FFFF&icon_color=FF0080&border_radius=15" />
+<a href="https://github.com/JusCookin/tumor-detection-api">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=JusCookin&repo=tumor-detection-api&theme=synthwave&hide_border=true&bg_color=0d1117&title_color=9400D3&text_color=00FFFF&icon_color=FF0080&border_radius=15" />
 </a>
 <br/><br/>
 <img src="https://img.shields.io/badge/CNN_ACCURACY-90%25+-9400D3?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=000000" />
@@ -157,7 +157,7 @@
 <img src="https://github-profile-trophy.vercel.app/?username=JusCookin&theme=synthwave&no-frame=true&row=2&column=4&margin-w=15&margin-h=15&no-bg=true" alt="Trophy Collection"/>
 
 <!-- ACHIEVEMENT BADGES -->
-<img src="https://img.shields.io/badge/🏆_VIT_CHENNAI-8.33_CGPA-FFD700?style=for-the-badge&labelColor=000000" />
+<img src="https://img.shields.io/badge/🏆_VIT_CHENNAI-COMPUTER_SCIENCE-FFD700?style=for-the-badge&labelColor=000000" />
 <img src="https://img.shields.io/badge/🎓_B.TECH_CSE-2022--2026-00FFFF?style=for-the-badge&labelColor=000000" />
 <img src="https://img.shields.io/badge/🔥_CODECHEF-MANAGEMENT_TEAM-FF0080?style=for-the-badge&labelColor=000000" />
 
@@ -177,21 +177,21 @@
 
 <!-- FUTURISTIC CONTACT BUTTONS -->
 <a href="https://linkedin.com/in/agash-jp">
-<img src="https://img.shields.io/badge/LINKEDIN-NEURAL_LINK-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000" />
+<img src="https://img.shields.io/badge/🔗_LINKEDIN-NEURAL_LINK-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=FF1493" />
 </a>
 <a href="mailto:agashjagan2004@gmail.com">
-<img src="https://img.shields.io/badge/GMAIL-QUANTUM_MAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000" />
+<img src="https://img.shields.io/badge/📧_GMAIL-QUANTUM_MAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=00FF7F" />
 </a>
 <a href="https://leetcode.com/u/Agash_dev7/">
-<img src="https://img.shields.io/badge/LEETCODE-COMBAT_ZONE-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=000000" />
+<img src="https://img.shields.io/badge/⚔️_LEETCODE-COMBAT_ZONE-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=9400D3" />
 </a>
 <a href="https://github.com/JusCookin">
-<img src="https://img.shields.io/badge/PORTFOLIO-DIMENSION_X-FF5722?style=for-the-badge&logo=firefox&logoColor=white&labelColor=000000" />
+<img src="https://img.shields.io/badge/🌐_PORTFOLIO-DIMENSION_X-FF5722?style=for-the-badge&logo=firefox&logoColor=white&labelColor=FFD700" />
 </a>
 
 <!-- LOCATION BEACON -->
-<img src="https://img.shields.io/badge/📍_QUANTUM_LOCATION-CHENNAI_INDIA-00FFFF?style=for-the-badge&labelColor=000000" />
-<img src="https://img.shields.io/badge/🌐_TIME_ZONE-IST_+5:30-FF0080?style=for-the-badge&labelColor=000000" />
+<img src="https://img.shields.io/badge/📍_QUANTUM_LOCATION-CHENNAI_INDIA-00FFFF?style=for-the-badge&labelColor=FF0080" />
+<img src="https://img.shields.io/badge/🌐_TIME_ZONE-IST_+5:30-FF69B4?style=for-the-badge&labelColor=00FF7F" />
 
 </div>
 
@@ -224,7 +224,7 @@
   - 🔧 DevOps & Cloud Architecture
 
 🏆 ACHIEVEMENTS_UNLOCKED:
-  - 🎓 VIT Chennai - 8.33 CGPA
+  - 🎓 VIT Chennai - Computer Science Engineering
   - 🏅 Oracle Database Certified
   - 🤖 TensorFlow AI Certified
   - 🧠 Generative AI Certified
