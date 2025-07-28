@@ -1,7 +1,7 @@
-# <div align="center">🌌 WELCOME TO THE NEURAL NEXUS MULTIVERSE 🌌</div>
+# <div align="center">🌌 Welcome To JusCooKin's Git Hub 🌌</div>
 
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=320&section=header&text=AGASH%20JP&fontSize=100&fontColor=fff&animation=twinkling&desc=⚡%20CONSCIOUSNESS%20ARCHITECT%20|%20🧠%20NEURAL%20SORCERER%20|%20🌐%20REALITY%20ENGINEER%20|%20🤖%20QUANTUM%20INNOVATOR&descSize=24&descAlignY=75" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=320&section=header&text=AGASH%20JP&fontSize=100&fontColor=fff&animation=twinkling&desc=⚡%20DevOps%20|%20🧠%20ML%20ENGINEER%20|%20🌐%20FULL-STACK%20|%20🤖%20IoT%20ENTHUSIAST&descSize=24&descAlignY=75" />
 </div>
 
 <div align="center">
