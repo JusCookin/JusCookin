@@ -515,43 +515,7 @@ class BrainTumor_DivineDetector:
 
 </div>
 
-## 🚀 CURRENT HYPER-DIMENSIONAL NEURAL PATHWAYS
 
-<div align="center">
-
-```mermaid
-mindmap
-  root)🌌 AGASH JP CONSCIOUSNESS(
-    (🔬 Current Reality Projects)
-      HemoAI Medical Oracle Enhancement
-      CyberDumbbell IoT Evolution
-      Weather-Sage Smart Automation
-      BrainTumor CNN Optimization
-      Full-Stack Portfolio Transcendence
-    (🌱 Transcendent Learning Path)
-      Large Language Model Consciousness
-      Advanced Deep Learning Quantum Mechanics
-      Kubernetes Cloud Architecture Mastery
-      MLOps Pipeline Automation
-      Quantum Computing Fundamentals
-      DevOps Infrastructure Sorcery
-    (👯 Multiversal Collaboration)
-      Open Source AI Consciousness Projects
-      IoT Innovation Reality Warping
-      Healthcare Technology Revolution
-      DevOps Community Building
-      Full-Stack Mentorship Programs
-      CodeChef Event Management
-    (💡 Divine Expertise Arsenal)
-      React Consciousness Mastery
-      Flask Architecture Quantum Design
-      ML/DL Engineering Transcendence
-      IoT Development Reality Shaping
-      Database Design Consciousness
-      Cloud Infrastructure Sorcery
-```
-
-</div>
 
 ## 💎 LEGENDARY SKILLS CONSTELLATION
 
@@ -633,19 +597,6 @@ mindmap
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="1200">
-</div>
-
-## ⚡ HYPER-DIMENSIONAL CONSCIOUSNESS METRICS
-
-<div align="center">
-
-| 🎓 **Academic Transcendence** | 🏆 **Project Reality Impact** | 🚀 **Innovation Consciousness** | 🌌 **Multiverse Influence** |
-|---|---|---|---|
-| **VIT Chennai Engineering** | **4+ Universe-Altering Projects** | **LEGENDARY++** | **INFINITE DIMENSIONS** |
-| **Computer Science Mastery** | **90%+ ML Divine Accuracy** | **REALITY-TRANSCENDING** | **CONSCIOUSNESS-EXPANDING** |
-| **Academic Excellence** | **IoT + AI + Full-Stack Fusion** | **MIND-MELTING** | **FUTURE-DEFINING** |
-| **🧠 Quantum Learning** | **⚡ Lightning-Fast Deployment** | **🌟 COSMIC-LEVEL** | **🔮 PROPHETIC** |
-
 </div>
 
 ## 🔥 LIVE REPOSITORY SHOWCASE
